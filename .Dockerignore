@@ -1,0 +1,7 @@
+docs/
+db/
+logs/*
+config.example.ini
+LICENSE.md
+README.md
+start.bat
