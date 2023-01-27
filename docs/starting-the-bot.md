@@ -1,6 +1,8 @@
 # 🏃 Starting the bot
 Haven't set up the bot yet? Check out [Setting up the bot](setup.md) first!
 
+These instructions are for a traditional deployment. If you wish to use Docker, check out the [Docker docs](docker.md) instead!
+
 ## Windows
 * To start the bot, double-click on `start.bat` in the bot's folder
 * To shut down the bot, close the console window

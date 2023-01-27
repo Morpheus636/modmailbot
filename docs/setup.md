@@ -32,7 +32,7 @@ This is the recommended setup for small and medium sized servers.
     * Replace `CATEGORY_ID_HERE` with the ID of the category where new modmail threads should go
 5. Make sure the bot has `Manage Channels`, `Manage Messages`, and `Attach Files` permissions in the category
     * It is not recommended to give the bot Administrator permissions under *any* circumstances
-6. **[🏃 Start the bot!](starting-the-bot.md)**
+6. **[🏃 Start the bot!](starting-the-bot.md)** or [Deploy with Docker](docker.md)
 7. Want to change other bot options? See **[📝 Configuration](configuration.md)**
 8. Have any other questions? Check out the **[🙋 Frequently Asked Questions](faq.md)** or
    **[join the support server!](../README.md#support-server)**
