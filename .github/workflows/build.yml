@@ -25,7 +25,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          tags: morpheus636/rss-to-email:latest, morpheus636/modmailbot:${{ github.event.release.tag_name }}
+          tags: morpheus636/modmailbot:latest, morpheus636/modmailbot:${{ github.event.release.tag_name }}
           push: true
 
       - name: Image Digest
